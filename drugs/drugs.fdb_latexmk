@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1739136866.58269 "/home/animidox/Dev/Github/books/drugs/drugs.tex" "drugs.pdf" "drugs" 1739136866.91299 0
+  "/etc/texmf/web2c/texmf.cnf" 1738707017.62597 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/animidox/Dev/Github/books/drugs/drugs.tex" 1739136864.9405 69 79b68e0e7ecf84ebccd2ced6fb6f2b8e ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo" 1705352648 8285 2aa2c1f4744c4405b9b440ce6102b311 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/book.cls" 1705352648 23268 80674e17dbdc75804bd4d067e837600a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1738708960 6800796 52ad5eb44a5db643dbd2bbf5f1107b97 ""
+  "drugs.aux" 1739136866.86858 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "drugs.tex" 1739136864.9405 69 79b68e0e7ecf84ebccd2ced6fb6f2b8e ""
+  (generated)
+  "drugs.aux"
+  "drugs.log"
+  "drugs.pdf"
+  (rewritten before read)
