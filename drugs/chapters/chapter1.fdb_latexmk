@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1739520547.50541 "/home/animidox/Dev/Github/books/drugs/chapters/chapter1.tex" "chapter1.pdf" "chapter1" 1739520548.1005 2
+  "/etc/texmf/web2c/texmf.cnf" 1738707017.62597 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/animidox/Dev/Github/books/drugs/chapters/chapter1.tex" 1739520546.15061 2602 83bcf4922b2aa45da240fdfdcbec9d64 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1738708867.53603 128028 f533b797fba58d231669ea19e894e23e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1738708960 6800796 52ad5eb44a5db643dbd2bbf5f1107b97 ""
+  "chapter1.aux" 1739520547.50268 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "chapter1.tex" 1739520546.15061 2602 83bcf4922b2aa45da240fdfdcbec9d64 ""
+  (generated)
+  "chapter1.aux"
+  "chapter1.log"
+  "chapter1.pdf"
+  (rewritten before read)
