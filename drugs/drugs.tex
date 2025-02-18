@@ -1,14 +1,20 @@
 \documentclass[12pt, a4paper]{book}
 \usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage{graphicx}
 
-\title{Drugs}
+\title{Drugs}       
 \author{Your Name}  
 \date{\today}  
 
 \begin{document}
 
-\maketitle  % Ensure this is present
+\includepdf[pages=1, scale=1.0, width=\paperwidth, height=\paperheight]{images/cover.png}
 
-\input{chapters/chapter1.tex}  % Include the first chapter
+\maketitle  
+
+\input{chapters/chapter1/chapter1.tex} 
+
+\input{chapters/chapter2/chapter2.tex}
 
 \end{document}
