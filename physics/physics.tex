@@ -1,11 +1,17 @@
 \documentclass[12pt, a4paper]{book}
 \usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage{graphicx}
 
 \title{Physics}
 \author{Your Name}
 \date{\today}
 
 \begin{document}
+\includepdf[pages=1, scale=1.0, width=\paperwidth, height=\paperheight]{images/cover.jpg}
+
 \maketitle
+
+\input{chapters/chapter1/chapter1.tex}
 
 \end{document}
