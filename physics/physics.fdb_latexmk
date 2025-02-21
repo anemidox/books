@@ -1,18 +1,24 @@
 # Fdb version 4
-["pdflatex"] 1739908873.99098 "/home/animidox/Dev/Github/books/physics/physics.tex" "physics.pdf" "physics" 1739908874.38431 1
+["pdflatex"] 1740119352.71916 "/home/animidox/Dev/Github/books/physics/physics.tex" "physics.pdf" "physics" 1740119353.07112 0
   "/etc/texmf/web2c/texmf.cnf" 1738707017.62597 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/animidox/Dev/Github/books/physics/physics.tex" 1739908872.29737 97 c399169eb9570f26c5250b37c729abb8 ""
+  "/home/animidox/Dev/Github/books/physics/physics.tex" 1740119352.42707 158 a08b9a346e1cdf7aad66aca19b0af74b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo" 1705352648 8285 2aa2c1f4744c4405b9b440ce6102b311 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/book.cls" 1705352648 23268 80674e17dbdc75804bd4d067e837600a ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1705352648 5048 425739d70251273bf93e3d51f3c40048 ""
   "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1738708867.53603 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1738708960 6800796 52ad5eb44a5db643dbd2bbf5f1107b97 ""
-  "physics.aux" 1739908874.32345 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "physics.tex" 1739908872.29737 97 c399169eb9570f26c5250b37c729abb8 ""
+  "physics.aux" 1740119353.03008 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "physics.tex" 1740119352.42707 158 a08b9a346e1cdf7aad66aca19b0af74b ""
   (generated)
   "physics.aux"
   "physics.log"
