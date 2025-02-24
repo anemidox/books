@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.5)  21 FEB 2025 12:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.5)  22 FEB 2025 23:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -190,7 +190,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 1.
-[3]) [4] (./physics.aux)
+[3] [4]) [5] (./physics.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -199,16 +199,16 @@ L3 programming layer <2024-01-22>
 Here is how much of TeX's memory you used:
  2795 strings out of 476182
  45521 string characters out of 5795596
- 1928975 words of memory out of 5000000
+ 1930975 words of memory out of 5000000
  24788 multiletter control sequences out of 15000+600000
  562094 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,18n,79p,481b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/animidox/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on physics.pdf (6 pages, 920579 bytes).
+Output written on physics.pdf (7 pages, 925533 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
